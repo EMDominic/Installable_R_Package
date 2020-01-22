@@ -1,17 +1,7 @@
-# Hello, world!
+#' Hello, world!
 #
-# This is an example function named 'hello'
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+#' The only functionality this package needs to have is a function helloworld(),
+#' taking no arguments, and printing the phrase “hello world” to the screen.
 
 helloworld <- function(){
   print("hello world")
