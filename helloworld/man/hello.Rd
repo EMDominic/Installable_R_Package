@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{helloworld}
+\alias{helloworld}
+\title{Hello World!}
 \usage{
-hello()
+helloworld()
 }
 \description{
-Prints 'Hello, world!'.
+Prints 'hello world!'.
 }
 \examples{
-hello()
+helloworld()
 }
